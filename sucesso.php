@@ -1,5 +1,5 @@
 <?php
-require("inc/header.php");
+include "inc/header.php";
 ?>
     <section id="chamada">
         <div class="container-fluid">
@@ -28,6 +28,6 @@ require("inc/header.php");
         </div>
     </section>
 <?php
-require("inc/footer.php");
+include "inc/footer.php";
 ?>
  
