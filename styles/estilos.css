@@ -1,0 +1,64 @@
+@import url("./bootstrap.min.css");
+body {
+    background-color: black;
+    color: #ffffff;;
+}
+#chamada {
+    background-image: url('https://agenciam2u.com.br/img/galaxy.jpg');
+    background-position: center center;
+    background-size: cover;
+    padding: 50px;
+}
+#chamada form button {
+    background-color: #ff3131;
+    color: white;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: all ease-in-out 300ms;
+}
+#chamada form button:hover {
+    background-color: #ff914d;
+}
+#paraquem h3 {
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+#paraquem i {
+    font-style: normal;
+    color: #ff3131;
+}
+#paraquem em {
+    font-style: normal;
+    color: #ff914d;
+    font-size: 1.5rem;
+}
+#paraquem p {
+    font-size: 1.3rem;
+}
+#instrutores {
+    background-image: url("https://agenciam2u.com.br/img/bg-bois.jpg");
+    background-position: top left;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+#instrutores h3 {
+    margin-top: 50px;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+}
+#instrutores h3 i{
+    color:#ff914d;
+    font-style: normal;
+}
+#instrutores .col-md-3 {
+    margin: 0 auto !important;
+    background-color: #151E37;
+    border-radius: 15px;
+    padding: 30px 15px 15px;
+}
+#instrutores img {
+    width: 250px;
+    border-bottom: 10px solid #ff914d;
+}
