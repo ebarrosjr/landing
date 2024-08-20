@@ -44,7 +44,7 @@ include "inc/header.php";
                     </div>
                     <div class="col-md-4 offset-md-4 mt-5 text-center">
                         <a href="https://chat.whatsapp.com/DM0qQUEJ6loJT89N4u5l2R" target="_blank" class="zap">
-                            <img src="https://agenciam2u.com.br/img/img/whatsapp.svg" alt="WhatsApp"/>
+                            <img src="https://agenciam2u.com.br/img/whatsapp.svg" alt="WhatsApp"/>
                             Entre no grupo
                         </a>
                     </div>
