@@ -1,5 +1,5 @@
 <?php
-include("/inc/header.php");
+include "inc/header.php";
 ?>
     <section id="chamada">
         <div class="container-fluid">
@@ -28,6 +28,6 @@ include("/inc/header.php");
         </div>
     </section>
 <?php
-include("/inc/footer.php");
+include "/inc/footer.php";
 ?>
  
