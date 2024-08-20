@@ -21,6 +21,13 @@ body {
 #chamada form button:hover {
     background-color: #ff914d;
 }
+#chamada .zap img {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
 #paraquem h3 {
     font-size: 2.5rem;
     margin-bottom: 2.5rem;
