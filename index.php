@@ -28,6 +28,6 @@ include "inc/header.php";
         </div>
     </section>
 <?php
-include "/inc/footer.php";
+include "inc/footer.php";
 ?>
  
