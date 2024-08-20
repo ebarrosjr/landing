@@ -20,8 +20,8 @@ include "inc/header.php";
         <div class="row">
             <div class="col-md-4 offset-md-4">
                 <form action="/sucesso" method="post">
-                    <input type="text" name="nome" class="form-control my-3" placeholder="Seu nome">
-                    <input type="email" name="email" class="form-control mb-3" placeholder="Seu melhor e-mail">
+                    <input type="text" name="nome" required="required" class="form-control my-3" placeholder="Seu nome">
+                    <input type="email" name="email" required="required" class="form-control mb-3" placeholder="Seu melhor e-mail">
                     <button type="submit"> Quero fazer o treinamento </button>
                 </form>
             </div>
